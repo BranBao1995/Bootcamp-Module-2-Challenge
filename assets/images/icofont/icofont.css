@@ -58,6 +58,16 @@ url("./fonts/icofont.woff") format("woff");
   content: "\eafb";
 }
 
+.icofont-github:before
+{
+  content: "\ed3e";
+}
+
+.icofont-linkedin:before
+{
+  content: "\ed4d";
+}
+
 .icofont-xs
 {
   font-size: .5em;
